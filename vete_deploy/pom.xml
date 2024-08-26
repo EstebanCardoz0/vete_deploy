@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.example</groupId>
     <artifactId>vete_deploy</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>vete_deploy</name>
     <description>vete_deploy</description>
     <url/>
