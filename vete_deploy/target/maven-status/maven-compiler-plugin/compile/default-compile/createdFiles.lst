@@ -1,0 +1,12 @@
+org\example\vete_deploy\controller\MascotaController.class
+org\example\vete_deploy\service\IDuenioService.class
+org\example\vete_deploy\repository\IMascotaRepository.class
+org\example\vete_deploy\repository\IDuenioRepository.class
+org\example\vete_deploy\service\IMascotaService.class
+org\example\vete_deploy\entity\Duenio.class
+org\example\vete_deploy\service\DuenioService.class
+org\example\vete_deploy\VeteDeployApplication.class
+org\example\vete_deploy\entity\Mascota.class
+org\example\vete_deploy\service\MascotaService.class
+org\example\vete_deploy\controller\DuenioController.class
+org\example\vete_deploy\dto\DTOMascota.class
