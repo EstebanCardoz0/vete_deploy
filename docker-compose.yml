@@ -19,7 +19,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: 1234
       MYSQL_PASSWORD: 1234
-      MYSQL_DATABASE: clinica_veterinaria
+      MYSQL_DATABASE: veterinaria
     restart: always
     healthcheck:
       test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
